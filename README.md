@@ -16,11 +16,11 @@ Auto clone Canvas is a tool that automatically clones Canvas installation files.
    <br><img src="https://raw.githubusercontent.com/HerokeyVN/Auto-clone-Canvas/main/Screenshot/B3.jpg" alt="P3" width="750"  />
 4. Edit the settings in the main.bat file and save the file:
    <br><img src="https://raw.githubusercontent.com/HerokeyVN/Auto-clone-Canvas/main/Screenshot/B4.jpg" alt="P4" width="750"  />
-  - Chỉnh sửa số lượng:
+  - Edit quantity:
    <br><img src="https://raw.githubusercontent.com/HerokeyVN/Auto-clone-Canvas/main/Screenshot/B5.1.jpg" alt="P5.1" width="500"  />
-  - Chỉnh sửa tên file APK đầu vào:
+  - Edit the input APK file name:
    <br><img src="https://raw.githubusercontent.com/HerokeyVN/Auto-clone-Canvas/main/Screenshot/B5.2.jpg" alt="P5.2" width="500"  />
-  - Chỉnh sửa tên file APK đầu ra:
+  - Edit the output APK file name:
    <br><img src="https://raw.githubusercontent.com/HerokeyVN/Auto-clone-Canvas/main/Screenshot/B5.3.jpg" alt="P5.3" width="500"  />
 8. Run the main.bat file and wait until the cloning process is completed.
    <br><img src="https://raw.githubusercontent.com/HerokeyVN/Auto-clone-Canvas/main/Screenshot/B6.jpg" alt="P6" width="750"  />

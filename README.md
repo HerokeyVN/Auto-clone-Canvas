@@ -5,6 +5,7 @@ Auto clone Canvas is a tool that automatically clones Canvas installation files.
 
 ## Prerequisites
 - Windows operating system (7/8.1/10/11)
+- Computer with Java installed (Don't have Java installed yet? Download now [here](https://www.java.com/en/download/))
 - Android is comming soon...
 
 ## Usage Instructions

@@ -45,7 +45,7 @@ for /l %%i in (1,1,%Quantity%) do (
     echo Sign name for !newApkName!
     call :signApk "!pathKeystore!" "!keystore_password!" "!keystore_alias!" "!workingDirectory!\align.apk" "!pathSigned!\!newApkName!"
 
-    ::move /y "!decompiledDirectory!\AndroidManifest.xml.old" "!decompiledDirectory!\AndroidManifest.xml"
+    move /y "!decompiledDirectory!\AndroidManifest.xml.old" "!decompiledDirectory!\AndroidManifest.xml"
     endlocal
 )
 

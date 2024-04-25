@@ -50,6 +50,7 @@ for /l %%i in (1,1,%Quantity%) do (
 )
 
 echo APK cloning has completed.
+pause
 goto :eof
 
 :changeAppInfo
